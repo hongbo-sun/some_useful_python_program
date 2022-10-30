@@ -11,9 +11,12 @@ import linecache
 import numpy as np
 import os
 import scipy.io as io
- 
+
+
+#test updation
 filename = 'C:\\Users\\hongb\\Desktop\\fake_caption_BOW\\flickr\\flickr_bow_3000.txt'
  
+
  
 def txt_strtonum_feed(filename):
     data = []
